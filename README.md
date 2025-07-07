@@ -9,3 +9,5 @@
 - `data/`: Sample legal documents
 - `prompts/`: Few-shot prompt templates
 - `utils/`: Preprocessing scripts
+
+![Sentiment Analyzer Window](./Screenshot/Screenshot/streamlit interface.png "This is a Sentiment Analyzer Window")
