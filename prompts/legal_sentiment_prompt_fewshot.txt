@@ -1,0 +1,15 @@
+Analyze the sentiment of the following legal text as POSITIVE, NEGATIVE, or NEUTRAL from a legal perspective.
+
+Examples:
+1. "The court finds the defendant liable for all damages."
+Sentiment: NEGATIVE
+
+2. "The motion to dismiss is granted with prejudice."
+Sentiment: POSITIVE
+
+3. "The parties agree to settle the matter out of court."
+Sentiment: NEUTRAL
+
+Now analyze:
+"{insert legal text here}"
+Sentiment:
