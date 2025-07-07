@@ -10,4 +10,4 @@
 - `prompts/`: Few-shot prompt templates
 - `utils/`: Preprocessing scripts
 
-![Sentiment Analyzer Window](./Screenshot/streamlit interface.png "This is a Sentiment Analyzer Window")
+![Sentiment Analyzer Window](./Screenshot/Streamlit_interface.png "This is a Sentiment Analyzer Window")
